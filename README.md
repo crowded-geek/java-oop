@@ -5,11 +5,11 @@
  - Here the class which I made `encaps.java` has two classes, a main class encaps and a getter class which will try to get all
    the variables in the encaps class but fails to do so as one of the class's variable is private to the encaps class and trying to get it results in the following error:
 
-![img](https://i.imgur.com/JMftAc9.png)
+   ![img](https://i.imgur.com/JMftAc9.png)
 
     But wwhen this line is removed, code runs peacefully:
     
-![img](https://i.imgur.com/2lGX3k9.png)
+   ![img](https://i.imgur.com/2lGX3k9.png)
 
 
 ## Polymorphism
