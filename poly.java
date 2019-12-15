@@ -1,13 +1,16 @@
-class poly{
-    double area(int l, int b){
-        return l*b;
-    }
-    double area(int r){
-        return Math.PI*r*r;
-    }
+class poly {
+    String a = "Hello";
+
     public static void main(String args[]){
-        poly a = new poly();
-        System.out.println(a.area(4, 5));
-        System.out.println(a.area(4));
+        inherited in = new inherited();
+        in.main(new String[1]);
+    }
+}
+class inherited extends poly {
+    String a = "XD XD";
+
+    public static void main(String args[]) {
+        poly i = new inherited();
+        System.out.println(i.a);
     }
 }
