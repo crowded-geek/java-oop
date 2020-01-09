@@ -1,3 +1,5 @@
+[![GCI Badge](https://img.shields.io/badge/Google%20Code--in-JBoss%20Community-red?labelColor=2096F3)](https://gitter.im/JBossOutreach/gci)
+
 # java-oop
 ## Encapsulation
 - Encapsulation can be achieved by: Declaring all the variables in the class as private and writing public methods in the class to set and get the values of variables.
