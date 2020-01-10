@@ -19,3 +19,5 @@ Output:
   Output:
   
   ![img](https://i.imgur.com/wqFAdNR.png)
+  
+  Google Code-in and the Google Code-in logo are trademarks of Google Inc.
